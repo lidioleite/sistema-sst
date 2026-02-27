@@ -1,5 +1,8 @@
+--prefer-binary
+dlib==19.22.1
+numpy<2.0.0
 streamlit
 opencv-python-headless
-dlib==19.22.1
 face_recognition
-numpy<2.0.0
+
+
